@@ -1,8 +1,6 @@
-192.168.1.10 Failed login
-192.168.1.10 Failed login
-192.168.1.10 Failed login
-192.168.1.12 Failed login
-192.168.1.15 Successful login
-192.168.1.12 Failed login
-192.168.1.12 Failed login
-192.168.1.12 Failed login
+10.0.0.1 Failed login
+10.0.0.2 Failed login
+10.0.0.1 Failed login
+10.0.0.2 Failed login
+10.0.0.1 Failed login
+10.0.0.2 Failed login
